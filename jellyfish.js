@@ -1,5 +1,5 @@
-import * as THREE from './node_modules/three/build/three.module';
-import { GLTFLoader } from './node_modules/three/examples/jsm/loaders/GLTFLoader';
+import * as THREE from "./build/three.module";
+import { GLTFLoader } from "./build/GLTFLoader";
 
 // Scene setup
 const scene = new THREE.Scene();
