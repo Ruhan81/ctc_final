@@ -1,0 +1,11 @@
+Model Information:
+* title:	Box Jellyfish (Cubomedusae)
+* source:	https://sketchfab.com/3d-models/box-jellyfish-cubomedusae-b6050e8eddb34f17bc1c80ff23cadb18
+* author:	n- (https://sketchfab.com/n-)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Box Jellyfish (Cubomedusae)" (https://sketchfab.com/3d-models/box-jellyfish-cubomedusae-b6050e8eddb34f17bc1c80ff23cadb18) by n- (https://sketchfab.com/n-) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

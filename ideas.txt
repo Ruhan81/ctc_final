@@ -1,0 +1,61 @@
+1. sunlight zone
+    - great white shark
+        "It is THE LARGEST predatory fish in the ocean\ntoday, and can grow up to roughly 20 feet long",
+        "Their teeth can grow as long as 6.6 inches",
+        "They can detect a single drop of blood\nin 25 gallons (nearly 100 liters) of water",
+        "In waters around Australia, the fatality\nrate from a single bite was nearly 60%",
+        "Their blood is so highly toxic (extreme levels\nof mercury and arsenic) that almost\nno other animal would be able to tolerate it",
+        "Orcas (killer whales) are one of their only predators",
+        "As dangerous as they are, there have only been 354\nunprovoked attacks on humans, resulting in 57 fatalities",
+        "They often detect their prey, not by sight or\nsmell, but by sensing the electric field\nof prey through pores on their snout"
+
+    - box jellyfish
+        "Not only can they see, but they have up to\n24 eyes, each contributing to distinct\nfunctions of vision (seeing colour, light and dark etc.)",
+        "It is quite rare for them to live for longer than 9 months to a year",
+        "A single sting can cause humans extreme pain, cardiac\narrest, paralysis, or even death, within 5 minutes",
+        "Common prey include fish, worms, shrimp, and other crustaceans",
+        "Common predators include sharks and leatherback sea turtles",
+        "Commonly found in warm waters in the Indian and\nPacific oceans, between Thailand and the Phillipines\nand off the Northern coast of Australia",
+        "Unlike most jellyfish, they can actually swim, they arent just carried by ocean currents",
+        "Their tentacles can be up to 10 feet in length"
+
+2. twilight zone
+    - sperm whale
+        "They are the largest toothed whale, weighing up to 50 tons",
+        "Their head makes up 1/3rd of their length,\ncarrying the largest brain of any animal on Earth",
+        "They consume up to 2 tons of food DAILY",
+        "They can hold their breaths for up to 90 minutes,\nand dive deeper than 3000ft looking for prey!",
+        "Females often adopt offsprings that aren't their own and raise them",
+        "They nap for 10-15 minutes at a time\nseveral times a day, in groups, VERTICALLY",
+        "They communicate with each other using clicks (called\ncodas), each with a distinct purpose",
+        "Their diet consists mainly of octopi and squid"
+
+3. midnight zone 
+    - anglerfish
+        'Females have the "Esca", a glowing lure, on their heads to attract prey in the ocean depths',
+        "After a certain point in their lives, the males have to fuse to the females permanently, using the females for nutrition like a parasite",
+        "Their stomachs can expand enough to allow them to swallow prey twice their size",
+        "They have very slow metabolism, allowing them to go months without eating",
+        "Unlike most predators, they don't chew. Instead, they swallow prey whole",
+        "Some species can control the brightness of their Esca",
+        "Because they hunt in total darkness, they can detect prey by the electric fields they produce"
+
+4. abyssal zone 
+    - goblin shark
+        "Because they live in the depths of the ocean, they locate their prey using electroreceptors in their nose",
+        "They can live for up to 60 years",
+        "They live at depths of 4000+ feet",
+        "They have 30-50 rows of near-transparent teeth. They cannot even fit them all in their mouth",
+        "They possess a long, flattened snout (the "Rostrum"), which can be over 1ft long".
+        "Not only their teeth, but their skin too is translucent, making them appear pink-ish due to visible blood vessels",
+        "When hunting, their jaw can extend by more than 1ft, and they swallow their prey whole
+   
+    - bluntnose sixgill shark
+        "Instead of the typical 5, they possess 6 long pairs of gill slits, hence the name",
+        "Their litters range from 22 all the way to 108!",
+        "They can live up to EIGHTY years!",
+        "At lengths of up to 6m, they are one of the largest sharks in the ocean today",
+        "They have previously been filmed attacking submarines",
+        "They are believed to be among the most prehistoric of sharks. Some of their characteristics are unchanged since 200 million years ago",
+        "They can be found up to depths of 6000ft!"
+
