@@ -16,6 +16,7 @@ let clouds = [];
 let skyGraphics;
 let a = 100
 let increment2=5
+let flag=false
 
 //--------------------------------------------------------------------------
 
@@ -177,6 +178,11 @@ function draw() {
       circles.splice(i, 1);
     } 
   }
+  if(flag===false){
+    textSize(14)
+    textAlign(CENTER)
+    fill(255)
+    text("Click on the screen, and use\narrow keys to move around!", x,y)}
   
   noStroke()
   //fill(255)
@@ -301,6 +307,8 @@ function keyIsPressed(){
 
 function mousePressed(){
   underwater.play()
+  if(flag===false){
+    flag=true}
 }
 
 function preventScroll(event) {
