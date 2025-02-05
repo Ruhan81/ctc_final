@@ -182,7 +182,7 @@ function draw() {
     textSize(14)
     textAlign(CENTER)
     fill(255)
-    text("Click on the screen, and use\narrow keys to move around!", x,y)}
+    text("Make the window fullscreen,\nClick on the screen, and use\narrow keys to move around!", x,y)}
   
   noStroke()
   //fill(255)
