@@ -1,4 +1,4 @@
-import * as THREE from "./build/three.module";
+import * as THREE from "https://unpkg.com/three@0.127.0/build/three.module.js"
 import { GLTFLoader } from "./build/GLTFLoader";
 
 // Scene setup
