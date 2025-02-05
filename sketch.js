@@ -82,6 +82,11 @@ function draw() {
   rect(0,windowHeight*2,width,windowHeight*0.75)
   
   image(gridGraphics1, 0, windowHeight*0.25);
+  if(flag===false){
+    textSize(14)
+    textAlign(CENTER)
+    fill(255)
+    text("Make the window fullscreen,\nClick on the screen, and use\narrow keys to move around!", x,y)}
 
   image(shark,1300,130+windowHeight*0.25,200,200);
 
@@ -178,11 +183,6 @@ function draw() {
       circles.splice(i, 1);
     } 
   }
-  if(flag===false){
-    textSize(14)
-    textAlign(CENTER)
-    fill(255)
-    text("Make the window fullscreen,\nClick on the screen, and use\narrow keys to move around!", x,y)}
   
   noStroke()
   //fill(255)
